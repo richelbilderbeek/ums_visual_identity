@@ -30,3 +30,7 @@ can be found by googling.
 `TBD_Makerspace_end2.6.ai` is an Adobe Illustrator file of 160+ megabyte,
 that cannot be compressed much more. GitHub has a maximum commit size of
 100 megabyte, hence it cannot be uploaded.
+
+It can be found in
+[the DropBox 'Visuell Identitet'](https://drive.google.com/drive/folders/122EPqMNJmVir2WNqwvGyMFmBRC7H6e4o?usp=sharing_eil&ts=68d190bf).
+
